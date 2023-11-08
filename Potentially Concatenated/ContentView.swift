@@ -55,7 +55,7 @@ struct TextFieldView: View {
             Text(label)
                 .font(.caption)
                 .multilineTextAlignment(.leading)
-                .foregroundColor(.gray)
+                .foregroundColor(.black)
         }
         .padding(.horizontal, 24)
     }
